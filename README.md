@@ -1,9 +1,9 @@
 # Hi there, I'm Yuting 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image.png">
-  <img alt="Shows an illustrated banner image" src="https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image%20(1).png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image%20(2).png">
+  <img alt="Shows an illustrated banner image" src="https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image%20(2).png">
 </picture>
 
 I'm an **SSV Ambassador** and passionate **Ξthereum enthusiast** ⟠ diving deep into the intersection of decentralized technologies and data-driven insights within the Web3 ecosystem.
@@ -55,9 +55,9 @@ I'm committed to **building and learning in public**, sharing my analyses, code,
 
 ### 📫 How to Reach Me & Find My Work:
 
-* 🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) - Daily thoughts, insights, and analysis sharing.
-* <0xF0><0x9F><0xA6><0xA9> **Dune Analytics:** [Link to your Dune Profile] - Explore my on-chain dashboards.
-* 📝 **Blog/Website/Notion:** [Link to your content hub] - For longer-form research and articles.
+* 🐦 **Twitter:** [@Yuting](https://twitter.com/YourTwitterHandle](https://x.com/zhangyutingzyt)) - Daily thoughts, insights, and analysis sharing.
+* 🥇 **Dune Analytics:** [Link to your Dune Profile] - Explore my on-chain dashboards.
+* 📝 **Blog/Website/Notion:** [SubStack](yuting.substack.com) - For longer-form research and articles.
 * 🔗 **LinkedIn:** [Link to your LinkedIn Profile] (Optional - if relevant to your goals)
 
 ---
