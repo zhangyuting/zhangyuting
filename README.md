@@ -1,9 +1,9 @@
 # Hi there, I'm Yuting 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[[Optional URL to a cool dark mode banner image]](https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image.png)">
-  <source media="(prefers-color-scheme: light)" srcset="[[Optional URL to a cool light mode banner image]](https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image.png)">
-  <img alt="Shows an illustrated banner image" src="[[Optional URL to a default banner image]](https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image.png)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image.png">
+  <img alt="Shows an illustrated banner image" src="https://github.com/zhangyuting/zhangyuting/blob/main/github-header-image.png">
 </picture>
 
 I'm an **SSV Ambassador** and passionate **Ξthereum enthusiast** ⟠ diving deep into the intersection of decentralized technologies and data-driven insights within the Web3 ecosystem.
